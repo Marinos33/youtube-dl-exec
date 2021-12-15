@@ -7,7 +7,6 @@ const { args } = require('..')
 test('parse arguments into flags', async t => {
   const flags = args('https://example', {
     noWarnings: true,
-    noCallHome: true,
     noCheckCertificate: true,
     preferFreeFormats: true,
     youtubeSkipDashManifest: true,
@@ -19,7 +18,6 @@ test('parse arguments into flags', async t => {
   t.deepEqual(flags, [
     'https://example',
     '--no-warnings',
-    '--no-call-home',
     '--no-check-certificate',
     '--prefer-free-formats',
     '--youtube-skip-dash-manifest',

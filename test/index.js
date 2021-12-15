@@ -25,7 +25,6 @@ test('conditional JSON parsing', async t => {
     {
       listFormats: true,
       noWarnings: true,
-      noCallHome: true,
       noCheckCertificate: true
     }
   )
