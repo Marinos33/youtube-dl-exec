@@ -1,4 +1,4 @@
-[![NPM Status](https://img.shields.io/npm/dm/youtube-dl-exec.svg?style=flat-square)](https://www.npmjs.com/package/yt-dlp-exec)
+[![NPM Status](https://img.shields.io/npm/dm/yt-dlp-exec.svg?style=flat-square)](https://www.npmjs.com/package/yt-dlp-exec)
 
 > A simple Node.js wrapper for [yt-dlp](https://github.com/yt-dlp/yt-dlp).
 
