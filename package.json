@@ -2,7 +2,7 @@
   "name": "yt-dlp-exec",
   "description": "A simple Node.js wrapper for yt-dlp",
   "homepage": "https://github.com/Marinos33/yt-dlp-exec",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "main": "src/index.js",
   "author": {
     "name": "Marinos33",
